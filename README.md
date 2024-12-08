@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Full-stack developer, primarily engaged in backend web development at work, proficient in Python and Go, with experience in TypeScript.
+Full-stack developer, primarily engaged in backend web development at work.  
+Languages: Proficient in Python and Go, with experience in TypeScript.  
+Frameworks: Skilled with Flask, FastAPI, Echo, React, Next.js  
+
+Currently seeking opportunities, feel free to reach out.
