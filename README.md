@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Full-stack developer, primarily engaged in backend web development at work.  
-Languages: Proficient in Python and Go, with experience in JavaScript, TypeScript.  
-Frameworks: Skilled with Flask, FastAPI, Echo, React, Next.js  
+Full stack developer.
+
+**Languages**: TypeScript, JavaScript, Python, Go (Golang)  
+**Backend**: NestJS, FastAPI, Flask, Echo, gRPC  
+**Frontend**: React, Next.js, TailwindCSS  
+**Data & Infra**: PostgreSQL, MySQL, Redis, Kafka, Docker, DevContainer, GitHub Actions, Jenkins  
 
 Currently seeking opportunities, feel free to reach out.
